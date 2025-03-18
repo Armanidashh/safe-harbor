@@ -12,7 +12,7 @@
         "@metamask/eth-sig-util": "^7.0.3",
         "eth-sig-util": "^3.0.1",
         "ethers": "^6.13.3",
-        "web3": "^4.13.0"
+        "web3": "^4.16.0"
     },
     "keywords": [],
     "type": "module",
